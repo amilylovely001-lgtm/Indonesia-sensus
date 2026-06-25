@@ -1,0 +1,6 @@
+{
+  "name": "Neurosphere Census Module",
+  "description": "Indonesian mobile-first census system, featuring a TikTok-style smartphone simulation with glassmorphic transparent button overlays, integrated identity generation (IID), offline event queuing, and a government control room dashboard with real-time analytics and Gemini AI anomaly detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
